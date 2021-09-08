@@ -25,5 +25,6 @@ or follow SHAPEAI on:
   <li><a href="https://www.instagram.com/shape.ai/?hl=en">Instagram</a>  
 
   <li><a href="https://www.youtube.com/channel/UCTUvDLTW9meuDXWcbmISPdA">YouTube</a> 
+    
 
   <li><a href="https://github.com/shapeai">GitHub</a>
